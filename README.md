@@ -2,7 +2,7 @@
 
 《末日极寒：地球之盐》短剧 AI 视频素材生成工具集。基于知乎内部 `gpt-image-2` 接口，批量生成分镜图、定妆照、场景图与角色图。
 
-从 [MyBook](https://github.com/) 项目中的 `ai_gen_video` 模块独立拆分。
+从 MyBook 项目中的 `ai_gen_video` 模块独立拆分。
 
 ## 目录结构
 
