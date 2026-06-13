@@ -1,0 +1,18 @@
+
+角色	音色中文名称	音色 ID	调整说明
+女主（白薇妍）	清爽少女	Chinese (Mandarin)_Crisp_Girl	保持冷静、果断的特质。
+母亲	暖心少女	Chinese (Mandarin)_Warm_Girl	语气温柔、充满关怀，代表家人的温暖。
+社区阿姨	知性熟女	Chinese (Mandarin)_Mature_Woman	(新选) 语气更成熟、官方，带一点街道工作的干练和疏离感。
+女二（伪楼长）	可靠主管	Chinese (Mandarin)_Reliable_Executive	保持虚伪的专业感。
+父亲	南方青年	Chinese (Mandarin)_Southern_Young_Man	保持温和、朴实的父爱感。
+司机	温润青年	Chinese (Mandarin)_Gentle_Youth	保持善良、质朴的特质。
+903老太太	慈祥长辈	Chinese (Mandarin)_Gentle_Senior	苍老慈祥，人性之光。
+旁白	新闻主播	Chinese (Mandarin)_News_Anchor	宏大且冷峻的叙事感。
+警察	可靠主管	Chinese (Mandarin)_Reliable_Executive	严肃正义。
+
+人工：
+女主：睿智少女 或 清脆少女
+903老奶奶：花甲奶奶
+司机：
+父亲：睿智长者
+母亲：
